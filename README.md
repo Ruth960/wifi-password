@@ -1,6 +1,8 @@
 # wifi-password
 
 This code retrieves and displays the Wi-Fi names and their corresponding passwords saved on your system.
+#N/B
+    You can only seen the wifi password if you had          logged in before.
 
 ## Usage
 
